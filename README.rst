@@ -25,12 +25,9 @@ Features
 Quickstart
 ----------
 
-.. role:: strike
-    :class: strike
 
 Generate a Python package project::
 
-    :strike:`cookiecutter https://github.com/audreyr/cookiecutter-pypackage.git`
     cookiecutter https://github.com/s4z/cookiecutter-pypackage.git
 
 Then:
